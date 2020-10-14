@@ -1,0 +1,2 @@
+#define mySSID "SSIDABC"
+#define myPASSWORD "USE YOUR OWN PASSWORT"
